@@ -1,0 +1,29 @@
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+
+  height: 100%;
+}
+
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  -webkit-overflow-scrolling: touch;
+}
+
+body {
+  font-family: 'OpenSans';
+  font-size: 15px;
+  line-height: 27px;
+  color: rgba(0,0,0,0.77);
+}
