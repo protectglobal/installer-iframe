@@ -1,0 +1,1 @@
+https://blog.teamtreehouse.com/deploy-static-site-heroku

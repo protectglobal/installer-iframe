@@ -27,3 +27,11 @@ body {
   line-height: 27px;
   color: rgba(0,0,0,0.77);
 }
+
+.headline1 {
+  color: red;
+}
+
+.container {
+  background-color: black;
+}
